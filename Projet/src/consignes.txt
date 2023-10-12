@@ -1,0 +1,24 @@
+3 séances
+
+ - écrire un serveur qui échanges des services
+ - des amateurs qui ont besoin de services (avec 2 thread sur le  serveur différent)
+  service programmeur et service amateur (service de dialogue serveur socket)
+  - Les programmeurs developpent des services et place sur la plateforme (chaqupe programmeur à son serveur FTP)
+  - connexion port prgrammeur avec un menu
+   - 1 ajouter un nouveau service => client BTTP (donnée le nom de la class norme BRI service Rgistry OK si norme ) Ou erreur à indiquer
+   - les amateurs voir TP4 (la différence contexte opérationnel concurence) va conserver des classes de service (service registry)
+   s'exécute dans la file execution de l'amateur
+
+   Rapport écrit à rendre (rapport de projet):
+    - Projet de programmation
+    Sommaire, présentation , le thème et différente classe
+    schéma etc..
+
+
+                    [Service_registry]
+
+
+
+      [Dialgue amateur]					[Dialogue programmeur]
+       - Client
+       - serveur FTP
